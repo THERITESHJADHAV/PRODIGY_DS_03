@@ -1,6 +1,6 @@
 # Data Science Internship Task 3
 <br>
-<img src="https://github.com/kindo-tk/PRODIGY_DS_03/blob/main/ds3.png"   >
+<img src="https://github.com/THERITESHJADHA/PRODIGY_DS_03/blob/main/ds3.png">
 
 Welcome to the repository for my internship task submission for Prodigy Infotech! In this project, I developed machine learning models to predict whether clients will subscribe to a term deposit based on demographic and behavioral data from direct marketing campaigns conducted by a Portuguese banking institution.
 
@@ -10,7 +10,7 @@ The main goal of this project is to create predictive models that can assist ban
 
 ## Dataset
 
-The <a href="https://github.com/kindo-tk/PRODIGY_DS_03/blob/main/bank-additional-full.csv">`dataset`</a> used in this project is related to direct marketing campaigns (phone calls) of the Portuguese banking institution. It contains various features such as client demographics, previous marketing interactions, and the outcome of the marketing campaign (whether the client subscribed to a term deposit or not).
+The <a href="https://github.com/THERITESHJADHAV/PRODIGY_DS_03/blob/main/bank-additional-full.csv">`dataset`</a> used in this project is related to direct marketing campaigns (phone calls) of the Portuguese banking institution. It contains various features such as client demographics, previous marketing interactions, and the outcome of the marketing campaign (whether the client subscribed to a term deposit or not).
 
 
 ## Results
@@ -23,10 +23,4 @@ This project demonstrates the potential of machine learning models in predicting
 
 Thank you for reviewing my internship task submission!
 
-
-## Contact Information
-For any inquiries or feedback regarding this project, please contact:
-
-- <a href="https://www.linkedin.com/in/tufan-kundu-577945221/">Tufan Kundu (LinkedIn)</a>
-- Email: tufan.kundu11@gmail.com
 
